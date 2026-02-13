@@ -1,0 +1,73 @@
+[
+  {
+    "lastUpdated": "2026-02-13T18:52:15",
+    "isDataStale": false,
+    "queueType": {
+      "code": "immigration"
+    },
+    "checkpointFacility": {
+      "checkpointFacilityType": {
+        "code": "immigrationNonEEA"
+      },
+      "terminalFacility": {
+        "code": "2"
+      },
+      "area": null
+    },
+    "queueMeasurements": [
+      {
+        "name": "minimumWaitTime",
+        "value": -1,
+        "unitOfMeasurement": {
+          "name": "minutes"
+        }
+      },
+      {
+        "name": "maximumWaitTime",
+        "value": 10,
+        "unitOfMeasurement": {
+          "name": "minutes"
+        }
+      }
+    ],
+    "waitTimeRangeMinutes": "<10",
+    "waitTimeMessage": "Less than 10 minutes",
+    "additionalMessages": []
+  },
+  {
+    "lastUpdated": "2026-02-13T18:52:15",
+    "isDataStale": false,
+    "queueType": {
+      "code": "immigration"
+    },
+    "checkpointFacility": {
+      "checkpointFacilityType": {
+        "code": "immigrationEEA"
+      },
+      "terminalFacility": {
+        "code": "2"
+      },
+      "area": null
+    },
+    "queueMeasurements": [
+      {
+        "name": "minimumWaitTime",
+        "value": -1,
+        "unitOfMeasurement": {
+          "name": "minutes"
+        }
+      },
+      {
+        "name": "maximumWaitTime",
+        "value": 10,
+        "unitOfMeasurement": {
+          "name": "minutes"
+        }
+      }
+    ],
+    "waitTimeRangeMinutes": "<10",
+    "waitTimeMessage": "Less than 10 minutes",
+    "additionalMessages": []
+  }
+]
+-----------------------------------------------------------------------------------------
